@@ -1,0 +1,7 @@
+var op = { 
+      consumerKey : 'VrMZEDv9aS06xVHHY9wqQw', 
+      consumerSecret : 'htOvACr5avCYeX7NsI8LUqSWGCZYuAh8yUxn4Y52t0' ,
+      callbackUrl: 'http://gtrackapp.blogspot.co.il/'
+    };
+
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCE_Tug_tIcD5O0pXERpMWff7RYodUnkvE&sensor=true"></script>

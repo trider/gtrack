@@ -20,9 +20,9 @@ $(document).ready(function(){
   $("#btnUpdate").hide();
   
   /*var op = { 
-      consumerKey : 'VrMZEDv9aS06xVHHY9wqQw', 
-      consumerSecret : 'htOvACr5avCYeX7NsI8LUqSWGCZYuAh8yUxn4Y52t0' ,
-      callbackUrl: 'http://gtrackapp.blogspot.co.il/'
+      consumerKey : '', 
+      consumerSecret : '' ,
+      callbackUrl: ''
     };
     
   var requestParams;
